@@ -1,4 +1,4 @@
-All the pratice activities and other practice file include the analysis of a dummmy sales store.\
-These activities cover all the skills inlcudings DAX language, GUI based transformations and Data modeling of the sales data.\
-Different types of visualisations are used to showcase variety of available charts like Maps, Bar charts, Column charts, Line charts, slicers, funnels.\ 
-Also, different features like Bookmarks, Selection Panes, and Analyze in excel features etc. were also explored.
+All the practice activities and other practice files include the analysis of a dummy sales store.\
+These activities cover all the skills including DAX language, GUI-based transformations, and Data modeling of the sales data.\
+Different types of visualizations are used to showcase a variety of available charts like Maps, Bar charts, Column charts, Line charts, slicers, and funnels.\ 
+Also, different features like Bookmarks, Selection Panes, and Analyze in Excel features, etc. were explored.
